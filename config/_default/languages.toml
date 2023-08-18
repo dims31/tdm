@@ -1,11 +1,16 @@
-[en]
-    languageName = "English"
-    contentDir = "content"
-    weight = 1
-    [en.params.head]
-        tagline = "A Hugo Theme"
-    [en.params.social]
-        title = "Follow me"
-        caption = "I work on everything coding and tweet developer memes"
-    [en.params.footer]
-        # license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
+[fr]
+languageName = "Français"
+#contentDir = "content/fr"
+weight = 2
+[fr.params.head]
+tagline = ""
+[fr.params.social]
+title = "Suivez-nous"
+caption = "Y'aura pas grand chose mais bon !"
+[fr.params.footer]
+# license = "Gelicenseerd onder Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
+[fr.params.sections.blog]
+reference = "Plus d'articles"
+[fr.params.sections.projects]
+title = "Projets"
+reference = "Plus de projets"

@@ -1,0 +1,68 @@
+[[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "Destinations"
+  pageRef = "/destinations"
+  weight = 20
+
+[[main]]
+  name = "Guadeloupe"
+  pageRef = "/destinations/guadeloupe"
+  parent = "Destinations"
+  weight = 2
+
+# [[main]]
+#   name = "Préparatifs"
+#   pageRef = "/preparatifs"
+#   weight = 20
+
+# [[main]]
+#   name = "Budget"
+#   pageRef = "/preparatifs/budget"
+#   parent = "Préparatifs"
+#   weight = 2
+
+[[social]]
+  name = "Youtube"
+  pre = "fab youtube"
+  url = "https://www.youtube.com/channel/UCe7dOEb9gO-jUI57VjiIJlA"
+  weight = 10
+
+[[social]]
+  name = "Instagram"
+  pre = "fab instagram"
+  url = "https://www.instagram.com/dimitripuyet/"
+  weight = 20
+
+[[social]]
+  name = "Strava"
+  pre = "fab strava"
+  url = "https://www.strava.com/athletes/90502197"
+  weight = 30
+
+# toml-docs-start sample-navigation
+[[sample]]
+  name = "Blog"
+  pageRef = "/blog/"
+  weight = 10
+
+[[sample]]
+  name = "Projects"
+  pageRef = "/projects/"
+  weight = 20
+
+[[sample]]
+  name = "Sample project"
+  pageRef = "/projects/sample-project/"
+  parent = "Projects"
+  weight = 1
+
+[[sample]]
+  name = "Another project"
+  pageRef = "/projects/another-project/"
+  parent = "Projects"
+  weight = 2
+# toml-docs-end sample-navigation

@@ -1,11 +1,11 @@
-title = "Hinode"
-copyright = "Copyright © 2023 Mark Dumay."
+title = "Blog des minous"
+copyright = "Copyright © 2023 Dimitri PUYET."
 paginate = 9
 enableGitInfo = true
 
 # additional settings
 # googleAnalytics = "G-xxxxxxxxxx"
-baseURL = "https://example.com/"
+baseURL = "https://blog.dimlab.fr/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
@@ -18,8 +18,8 @@ ignoreErrors = ["error-remote-getjson"]
 
 timeout = "180s"
 
-languageCode = "en-us"
-defaultContentLanguage = "en"
+languageCode = "fr-fr"
+defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 
 [outputFormats.REDIR]
