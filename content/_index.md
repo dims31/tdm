@@ -1,13 +1,13 @@
 ---
-title: Welcome to Hinode!
+title: Bienvenue sur le blog des minous
 thumbnail:
-    url: /img/sunrise.jpg
-    author: Harris Vo
-    authorURL: https://unsplash.com/@hoanvokim
-    origin: https://unsplash.com/photos/ZX6BPboJrYk
-    originName: Unsplash
+    url: https://dimstowp01.blob.core.windows.net/img/cover.jpg
+    # author: Harris Vo
+    # authorURL: https://unsplash.com/@hoanvokim
+    # origin: https://unsplash.com/photos/ZX6BPboJrYkxxx
+    # originName: Unsplash
 ---
 
-A clean documentation and blog theme for your Hugo site based on Bootstrap 5.
+Suivez toutes nos aventures sur ce blog.
 
-{{< button href="https://gethinode.com/docs" icon="fas book-open" order="first" >}}Get Started{{< /button>}}
+{{< button href="#" icon="fas book-open" order="first" >}}A propos de nous{{< /button>}}
