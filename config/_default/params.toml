@@ -1,6 +1,6 @@
 [main]
     separator = "-"
-    description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
+    description = "Le blog des minous est un blog de voyages pas comme les autres."
     enableDarkMode = true
     modes = ["light", "dark"]
     canonifyAssetsURLs = false
@@ -36,7 +36,7 @@
 
 [navigation]
     anchor = true
-    logo = "/img/logo_icon.svg"
+    logo = "/img/logo.svg" #"/img/logo_icon.svg"
     color = "body"
     fixed = true
     offset = "3.8em"
@@ -104,7 +104,7 @@
 # toml-docs-end sections
 
 [favicon]
-    logo = "img/favicon.png"
+    logo = "images/logodim.png"
     sizes = [16, 32, 48]
 
 [style]

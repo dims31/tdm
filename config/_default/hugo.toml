@@ -1,7 +1,7 @@
 title = "Blog des minous"
 copyright = "Copyright © 2023 Dimitri PUYET."
 paginate = 9
-enableGitInfo = true
+enableGitInfo = false
 
 # additional settings
 # googleAnalytics = "G-xxxxxxxxxx"
