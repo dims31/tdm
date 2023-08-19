@@ -10,4 +10,4 @@ thumbnail:
 
 Suivez toutes nos aventures sur ce blog.
 
-{{< button href="#" icon="fas book-open" order="first" >}}A propos de nous{{< /button>}}
+{{< button href="about" icon="fas book-open" order="first" >}}A propos de nous{{< /button>}}
