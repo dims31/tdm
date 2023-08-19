@@ -151,8 +151,8 @@
     locale = "en_US"
 
 [comments]
-    enabled = false
-    repo = "" # Replace with your repository.
+    enabled = true
+    repo = "dims31/tdmcomment" # Replace with your repository.
     #issueTerm = "pathname" # pathname, url, title, og:title
     #label = "comment"
     # By default, light and dark mode correspond to github-light and github-dark, respectively.

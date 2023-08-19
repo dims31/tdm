@@ -7,6 +7,7 @@ tags: ["preparatifs","budget"]
 description: "Parce que malheuresement c'est pas gratuit, voici comment nous avons calculé tout ça."
 ---
 ---
+
 ## Budget prévisionnel ?
 
 Avant de se lancer dans la préparation de notre grand voyage, nous n’avions aucune idée du budget nécessaire pour passer 11 mois en vadrouille. Entre les hébergements, les activités les restos on avait pas trop d’idée du budget que cela pouvait représenter. Pour calculer notre budget, nous avons principalement utilisé 2 outils qui permettent d’agréger toutes les dépenses et donnent en plus des estimations de budget par pays (basé sur les experiences de voyageurs passés)
