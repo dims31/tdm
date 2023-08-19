@@ -4,7 +4,7 @@ paginate = 9
 enableGitInfo = false
 
 # additional settings
-# googleAnalytics = "G-xxxxxxxxxx"
+googleAnalytics = "G-269933898"
 baseURL = "https://blog.dimlab.fr/"
 canonifyURLs = false
 enableEmoji = true
