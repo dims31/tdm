@@ -14,16 +14,16 @@
   parent = "Destinations"
   weight = 2
 
-# [[main]]
-#   name = "Préparatifs"
-#   pageRef = "/preparatifs"
-#   weight = 20
+[[main]]
+  name = "Préparatifs"
+  pageRef = "#"
+  weight = 20
 
-# [[main]]
-#   name = "Budget"
-#   pageRef = "/preparatifs/budget"
-#   parent = "Préparatifs"
-#   weight = 2
+[[main]]
+  name = "Budget"
+  pageRef = "/preparatifs/budget"
+  parent = "Préparatifs"
+  weight = 2
 
 [[social]]
   name = "Youtube"
