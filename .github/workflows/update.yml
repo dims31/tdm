@@ -4,8 +4,8 @@ on:
   schedule:
     - cron: '0 3 * * *' # run daily at 03:00 AM
 
-permissions: write-all
-#  pull-requests: write
+permissions:
+  pull-requests: write
 
 jobs:
   update-dep:
