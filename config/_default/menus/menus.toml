@@ -24,6 +24,11 @@
   pageRef = "/preparatifs/budget"
   parent = "Préparatifs"
   weight = 2
+[[main]]
+  name = "Itinéraire"
+  pageRef = "/preparatifs/itineraire"
+  parent = "Préparatifs"
+  weight = 1
 
 [[social]]
   name = "Youtube"

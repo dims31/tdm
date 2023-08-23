@@ -1,0 +1,61 @@
+- title: Départ
+  icon: fas rocket
+  color: primary
+  content: 
+    Test content
+- title: Indonésie
+  icon: fas fa-location-dot
+  color: primary
+  date: 2023-10-03
+  badge: 1 mois
+- title: Singapour
+  icon: fas fa-location-dot
+  color: primary
+  date: 2023-10-01
+  badge: 3 jours
+- title: Philippines
+  icon: fas fa-location-dot
+  color: primary
+  date: 2023-11-04
+  badge: 1 mois
+- title: Vietnam
+  icon: fas fa-location-dot
+  color: primary
+  date: 2023-12-03
+  badge: 1 mois
+- title: Laos
+  icon: fas fa-location-dot
+  color: primary
+  date: 2024-01-03
+  badge: 15 jours
+- title: Cambodge
+  icon: fas fa-location-dot
+  color: primary
+  date: 2024-01-18
+  badge: 25 jours
+- title: Thailande
+  icon: fas fa-location-dot
+  color: primary
+  date: 2024-02-15
+  badge: 25 jours
+- title: Australie
+  icon: fas fa-location-dot
+  color: primary
+  date: 2024-03-10
+  badge: 25 jours
+- title: Polynesie
+  icon: fas fa-location-dot
+  color: primary
+  date: 2024-03-30
+  badge: 20 jours
+- title: Etats Unis
+  icon: fas fa-location-dot
+  color: primary
+  date: 2024-04-07
+  badge: 7 jours
+- title: Colombie
+  icon: fas fa-location-dot
+  color: primary
+  date: 2024-05-07
+  badge: 30 jours
+
