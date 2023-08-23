@@ -51,9 +51,9 @@ Site : {{< link "https://planificateur.a-contresens.net/" >}}Planificateur à Co
 ## Notre budget
 
 {{< table "table-striped" >}}
-| Catégorie        | Description                  | Prix           | 
-| ---------------- |------------------------------|----------------| 
-| Avions           | Transports Internationaux    | 7200€          | 
+| Catégorie        | Description                  | Prix           |
+| ---------------- |------------------------------|----------------|
+| Avions           | Transports Internationaux    | 7200€          |
 | Hebergement      |                              | 24000€         |
 | Vaccins          | En centre de vaccination CHU | 700€           |
 |Visas             |                              | 500€           |
