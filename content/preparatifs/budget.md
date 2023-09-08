@@ -13,12 +13,12 @@ description: "Parce que malheuresement c'est pas gratuit, voici comment nous avo
 Avant de se lancer dans la préparation de notre grand voyage, nous n’avions aucune idée du budget nécessaire.
 
 Voici les 5 grandes catégories de dépenses que nous avons intégré :
+
 - Billets d'avion
 - Vaccins
 - Equipements
 - Vie sur place (hebergement/transport/nourriture/loisirs)
 - Divers
-
 
 ### Budget Avion
 
@@ -30,13 +30,13 @@ Il faut compter pour l’itinéraire que nous avons prévu dans les 3800€/pers
 
 Nous avons quand même choisi de prendre des billets séparés et achetés au fur et à mesure pour la simple bonne raison que nous voulions garder la possibilité de modifier le trajet. Tant d’un point de vue liberté (toujours sympa de prendre qu’un aller simple 😎), que en cas d’imprévu.
 
-**Billets d'avion : 3800€/pers**
+**Billets d'avion** : 3800€/pers
 
 ### Vaccins
 
 Les vaccins du voyageurs ne sont pas remboursés et honnetement c'est quand meme pas donné ! Vu qu'on est pas trop joueurs sur la santé, on a fait la totale. Nous les avons tous fait en centre de vaccination internationale car c'est environ 30% mois cher que chez le généraliste. Dans tous les cas le vaccin contre la fièvre jaune ne peut se faire que la bas.
 
-**Vaccins : 385€/personne**
+**Vaccins** : 385€/personne
 
 ### Equipements
 
@@ -44,7 +44,7 @@ Je vais pas détailler le contenu de notre sac ici, je ferai un article dédié.
 Nous avons été assez raisonnable concernant l'équipement, même si ca donne envi de tout acheter !
 Le plus cher aura été, les sacs à dos, les chaussures de trail, et l'achat d'un petit PC portable 13" (pas compté dans le budget)
 
-**Equipements : 400€/personne**
+**Equipements** : 400€/personne
 
 ### Budget sur place
 
@@ -74,7 +74,7 @@ Autre site super bien fait qui nous a aussi aidé à calculer notre budget.
 
 Site : {{< link "https://planificateur.a-contresens.net/" >}}Planificateur à Contre Sens{{< /link >}}
 
-**Vie sur place : 12000€/pers**
+**Vie sur place** : 12000€/pers
 
 ### Divers
 
@@ -83,11 +83,13 @@ Site : {{< link "https://planificateur.a-contresens.net/" >}}Planificateur à Co
 En plus nous avons prix une assurance spéciale voyage à 575€/personne.
 L'assurance des cartes Gold fonctionne très bien mais est limitée à 1 mois et demi. On fera demarrer l'assurance voyage une fois l'assurance de la carte bleue terminée.
 
+**Assurance** : 575€/pers
+
 #### Visas
 
 Je vais pas rentrer dans les details, j'ai la flemme !
 
-**Visas : 250€/pers**
+**Visas** : 250€/pers
 
 ## Récapitulatif
 
@@ -102,6 +104,5 @@ Je vais pas rentrer dans les details, j'ai la flemme !
 |Equipement        |                              | 400€           |
 |**Total**         |                              |**17410€**      |
 {{< /table >}}
-
 
 Pour conclure, on ne change pas de voiture et on peut faire un an en tour du monde, elle est pas simple la vie !
