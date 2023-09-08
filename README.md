@@ -11,4 +11,11 @@ This Blog has been created to publish news about our long world trip around the 
 
 ## How this site is built ?
 
-This website is based on Hugo Static website generator, and Hinode theme
+This website is based on :
+
+- [HUGO Static Website Generator](https://gohugo.io/)
+  - Hugo is a Static Website generator built in GO
+- [Hinode Theme](https://gethinode.com/)
+  - Hinode Theme for Hugo is a very beautiful theme (for me!)
+- [Netlify](https://app.netlify.com/)
+  - Netlify is a build and host platform
