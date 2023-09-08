@@ -5,9 +5,9 @@
       "body",
       "button",
       "div",
-      "em",
       "footer",
       "form",
+      "h1",
       "h2",
       "h3",
       "h4",
@@ -314,13 +314,17 @@
       "le-planificateur-à-contre-sens",
       "le-tableau-excel-tourdumondiste",
       "navbar-0-collapse",
+      "notre-traj",
+      "notre-trajet",
+      "notre-trajet-prévisionnel",
       "récapitulatif",
       "toast-container",
       "toast-copied-code-message",
       "toast-message-email-4",
       "toc-collapse",
       "vaccins",
-      "visas"
+      "visas",
+      "voici"
     ]
   }
 }
