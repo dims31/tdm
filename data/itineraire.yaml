@@ -1,8 +1,7 @@
 - title: Départ
   icon: fas rocket
   color: primary
-  content: 
-    Test content
+  date: 2023-10-03    
 - title: Indonésie
   icon: fas fa-location-dot
   color: primary
@@ -53,9 +52,20 @@
   color: primary
   date: 2024-04-07
   badge: 7 jours
-- title: Colombie
+- title: Nicaragua
   icon: fas fa-location-dot
   color: primary
   date: 2024-05-07
   badge: 30 jours
+- title: Colombie
+  icon: fas fa-location-dot
+  color: primary
+  date: 2024-06-07
+  badge: 30 jours
+- title: Bresil
+  icon: fas fa-location-dot
+  color: primary
+  date: 2024-07-07
+  badge: 30 jours
+
 
