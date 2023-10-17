@@ -42,6 +42,3 @@ Comme tout n'est jamais parfait, notre auberge était située pas loin du minare
 {{< image src="https://dimstowp01.blob.core.windows.net/img/indonesie/gili-cover.jpg" class="rounded" caption="Plage de Gili Trawangan ">}}
 
 Allez maintenant qu'on a bien cramé sur la plage, on file au vert à Ubud.
-
-
-
