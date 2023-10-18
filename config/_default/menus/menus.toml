@@ -31,21 +31,21 @@
   weight = 1
 
 [[social]]
-  name = "Youtube"
-  pre = "fab youtube"
-  url = "https://www.youtube.com/channel/UCe7dOEb9gO-jUI57VjiIJlA"
-  weight = 10
-
-[[social]]
   name = "Instagram"
   pre = "fab instagram"
   url = "https://www.instagram.com/dimitripuyet/"
+  weight = 10
+
+[[social]]
+  name = "Polarsteps"
+  pre = "fa compass"
+  url = "https://www.polarsteps.com/EmmaPR7/9073467-tdm?s=ed63dfb1-b39f-4cf0-9412-5605ca604659"
   weight = 20
 
 [[social]]
-  name = "Strava"
-  pre = "fab strava"
-  url = "https://www.strava.com/athletes/90502197"
+  name = "Youtube"
+  pre = "fab youtube"
+  url = "https://www.youtube.com/channel/UCe7dOEb9gO-jUI57VjiIJlA"
   weight = 30
 
 # toml-docs-start sample-navigation
