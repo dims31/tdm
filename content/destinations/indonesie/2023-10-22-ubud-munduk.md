@@ -42,7 +42,7 @@ Les 3 jours à Munduk ont été reposant, loin du vacarme d'Ubud, et enfin ici i
 
 {{< image src="https://dimstowp01.blob.core.windows.net/img/indonesie/munduk1.jpg" class="rounded" caption="Cascade Golden Valley">}}
 
-{{< image src="https://dimstowp01.blob.core.windows.net/img/indonesie/munduk4.jpg" class="rounded" portrait="yes" caption="2ieme cascade avec option baignade">}}
+{{< image src="https://dimstowp01.blob.core.windows.net/img/indonesie/munduk4.jpg" class="rounded" portrait="true" caption="2ieme cascade avec option baignade">}}
 
 On en profite un peu pour planifier la suite de notre itinéraire, car planifier au jour le jour, meme avec Internet, ben on se rend pas compte mais ca prend du temps.
 
