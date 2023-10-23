@@ -152,7 +152,9 @@
 
 [comments]
     enabled = true
-    repo = "dims31/tdmcomment" # Replace with your repository.
+    repo = "dims31/tdmcomment"
+    disqusShortname = "blog-dimlab-fr"
+    # Replace with your repository.
     #issueTerm = "pathname" # pathname, url, title, og:title
     #label = "comment"
     # By default, light and dark mode correspond to github-light and github-dark, respectively.
