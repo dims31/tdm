@@ -22,6 +22,8 @@ languageCode = "fr-fr"
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = false
 
+disqusShortname = "blog-dimlab-fr"
+
 [outputFormats.REDIR]
 mediaType = "text/netlify"
 baseName = "_redirects"
