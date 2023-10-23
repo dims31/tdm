@@ -6,22 +6,23 @@
   icon: fas fa-location-dot
   color: primary
   date: 2023-10-03
-  badge: 1 mois
+  badge: 30 jours
+  url: https://blog.dimlab.fr/destinations/indonesie/
 - title: Singapour
   icon: fas fa-location-dot
   color: primary
   date: 2023-11-02
-  badge: 3 jours
+  badge: 2 jours
 - title: Philippines
   icon: fas fa-location-dot
   color: primary
   date: 2023-11-04
-  badge: 1 mois
+  badge: 19 jours
 - title: Vietnam
   icon: fas fa-location-dot
   color: primary
-  date: 2023-12-03
-  badge: 1 mois
+  date: 2023-11-22
+  badge: 45 jours
 - title: Laos
   icon: fas fa-location-dot
   color: primary
