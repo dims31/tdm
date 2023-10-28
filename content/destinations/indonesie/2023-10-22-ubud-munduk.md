@@ -16,13 +16,13 @@ Mais bonne surprise, une fois arrivé à Ubud, l'hotel que nous avions réservé
 
 {{< image src="https://dimstowp01.blob.core.windows.net/img/indonesie/ubud1.jpg" class="rounded" caption="Ayu Sari Guest house">}}
 
-Premier jour, nous sommes allés directement voir les rices terraces à Tegalalang avec notre petit scooter, et y'a rien à dire, c'est vraiment sublime. On est rentré par la sortie (sans payer du coup 😁), et du coup on était tout seul dans les rizières, tous les instagrameurs étaient trop occupés à faire des photos sur les balançoires ! En plus le trajet en scooter était magnifique et permet de ventiler nos tshirts trempés !
+Premier jour, nous sommes allés directement voir les rices terraces à Tegalalang avec notre petit scooter, et y'a rien à dire, c'est vraiment sublime. Nous sommes rentré par la sortie (sans payer du coup 😁), et avons pu nous retrouver tout seuls dans les rizières, tous les instagrameurs étaient trop occupés à faire des photos sur les balançoires ! Le trajet en scooter était magnifique et à permis de ventiler nos tshirts trempés !
 
 {{< image src="https://dimstowp01.blob.core.windows.net/img/indonesie/ubud2.jpg" class="rounded" caption="Tegalalang Rice Terrace">}}
 
 {{< image src="https://dimstowp01.blob.core.windows.net/img/indonesie/ubud4.jpg" class="rounded" caption="Tegalalang Rice Terrace">}}
 
-Le deuxième jour, on a eu la bonne idée de faire une marche à 12h en plein soleil (le Campuhan Ridge Walk) qui en plus d'être vraiment pas ouf, nous a séché (oui il faudrait le faire à 6h du mat mais on a la flemme !).
+Le deuxième jour, nous avons eu la bonne idée de faire une marche à 12h en plein soleil (le Campuhan Ridge Walk) qui en plus d'être vraiment pas ouf, nous a séché (oui il faudrait le faire à 6h du mat mais on a la flemme !).
 
 Du coup le reste du temps, repos à la piscine de l'hotel, cours de cuisine, spectacle de danse indonesienne dans un temple (me suis rarement fait chier comme ça !).
 
@@ -32,7 +32,7 @@ J'allais oublier notre premier enlèvement de scooter dans le centre de Bali (si
 
 ## Direction Munduk
 
-Pour aller à Munduk qui est à 2 heures de route de Ubud, on a loué un scooter pour la semaine car dans le nord de Bali, pas de transports en commun (trop pince pour le taxi aussi 😊). Du coup on a tout laissé à l'hotel d'Ubud et on est parti pour 8 jours en scooter avec uniquement nos petits sacs de 20 litres. La vraie aventure a commencé quand on s'est pris une énorme saucée sur la gueule et en scooter c'est pas drole. On est arrivé comme si on avait sauté dans une piscine habillés !
+Pour aller à Munduk qui est à 2 heures de route de Ubud, on a loué un scooter pour la semaine car dans le nord de Bali, pas de transports en commun. Nous avons tout laissé à l'hotel d'Ubud et on est parti pour 8 jours en scooter avec uniquement nos petits sacs de 20 litres. La vraie aventure a commencé quand on s'est pris une énorme saucée sur la gueule et en scooter c'est pas drole. On est arrivé comme si on avait sauté dans une piscine habillés !
 
 {{< image src="https://dimstowp01.blob.core.windows.net/img/indonesie/munduk3.jpg" class="rounded" caption="Notre première grosse saucée à scooter">}}
 

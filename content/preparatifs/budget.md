@@ -4,7 +4,7 @@ date: 2023-08-02
 thumbnail:
     url: https://dimstowp01.blob.core.windows.net/img/budget/cover2.jpg
 tags: ["preparatifs","budget"]
-description: "Parce que malheuresement c'est pas gratuit, voici comment nous avons calculé tout ça."
+description: "Le budget des minous décripté pour 11 mois en vadrouille autour du monde."
 ---
 ---
 
