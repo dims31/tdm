@@ -2,6 +2,7 @@
   "htmlElements": {
     "tags": [
       "a",
+      "blockquote",
       "body",
       "button",
       "div",
@@ -9,6 +10,7 @@
       "figure",
       "footer",
       "form",
+      "g",
       "h2",
       "h3",
       "h4",
@@ -170,6 +172,7 @@
       "hstack",
       "img-fluid",
       "img-wrap",
+      "instagram-media",
       "invisible",
       "is-search",
       "justify-content-between",
@@ -322,6 +325,7 @@
       "navbar-0-collapse",
       "petit-détour-par-le-temple-duluwatu",
       "premier-vrai-jour-a-kuta-",
+      "publications-associées",
       "ques-quon-a-prévu-",
       "récapitulatif",
       "toast-container",
