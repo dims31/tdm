@@ -3,7 +3,7 @@ title: "8 jours dans les iles autour de Bali"
 date: 2023-10-16
 thumbnail:
   url: https://dimstowp01.blob.core.windows.net/img/indonesie/nusa-cover.jpg
-tags: ["indonesie"]
+tags: ["indonesie","bali","asie"]
 description: "Quitte à aller à Bali un passage par les iles alentours était obligatoire, et honnetement ça vaut vraiment le détour !"
 ---
 ---

@@ -3,7 +3,7 @@ title: "1 semaine dans le centre de Bali"
 date: 2023-10-22
 thumbnail:
   url: https://dimstowp01.blob.core.windows.net/img/indonesie/ubud-cover.jpg
-tags: ["indonesie"]
+tags: ["indonesie","bali","asie"]
 description: "Après 2 semaines de bronzette à la plage, découverte du centre de Bali, plus authentique et reposant."
 ---
 ---
