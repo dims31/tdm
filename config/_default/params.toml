@@ -29,7 +29,7 @@
     checkVersion = false
 
 [home]
-    #sections = ["*"]
+    sections = ["destinations","preparatifs"]
     fullCover = false
     centerHeadline = false
     style = ""
