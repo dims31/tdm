@@ -29,7 +29,7 @@
     checkVersion = false
 
 [home]
-    # sections = ["posts"]
+    sections = ["destinations/indonesie","Preparatifs"]
     fullCover = false
     centerHeadline = false
     style = ""

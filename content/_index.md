@@ -2,12 +2,11 @@
 title: Bienvenue sur le blog des minous
 thumbnail:
     url: https://dimstowp01.blob.core.windows.net/img/cover.jpg
-    # author: Harris Vo
-    # authorURL: https://unsplash.com/@hoanvokim
-    # origin: https://unsplash.com/photos/ZX6BPboJrYkxxx
-    # originName: Unsplash
+description: Suivez toutes nos aventures sur ce blog.
+actions:
+  get-started:
+    url: "about"
+    title: "A propos de nous"
+    icon: "fas fa-heart"
+    order: "first"
 ---
-
-Suivez toutes nos aventures sur ce blog.
-
-{{< button href="about" icon="fas fa-heart" order="first" >}}A propos de nous{{< /button>}}
