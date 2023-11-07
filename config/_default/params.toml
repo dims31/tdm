@@ -29,7 +29,7 @@
     checkVersion = false
 
 [home]
-    sections = ["destinations","preparatifs"]
+    sections = ["destinations/singapour","destinations/indonesie","preparatifs"]
     fullCover = false
     centerHeadline = false
     style = ""
