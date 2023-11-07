@@ -30,12 +30,12 @@
                 https://*.netlify.app https://utteranc.es https://fonts.googleapis.com https://www.youtube.com https://c.disquscdn.com; \
             object-src 'none'; \
             base-uri 'self'; \
-            connect-src 'self'
+            connect-src 'self' webpack: \
                 https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com https://links.services.disqus.com https://geo.privacymanager.io; \
             font-src 'self' https://*.netlify.app https://fonts.gstatic.com; \
             frame-src 'self' https://utteranc.es https://www.youtube-nocookie.com https://www.youtube.com https://www.instagram.com https://disqus.com \
                 app.netlify.com; \
-            img-src 'self' data: https://*.netlify.app https://i.vimeocdn.com https://i.ytimg.com https://*.google-analytics.com https://*.googletagmanager.com https://tile.openstreetmap.org https://referrer.disqus.com https://c.disquscdn.com http://cdn.viglink.com; \
+            img-src 'self' data: about: https://*.netlify.app https://i.vimeocdn.com https://i.ytimg.com https://*.google-analytics.com https://*.googletagmanager.com https://tile.openstreetmap.org https://referrer.disqus.com https://c.disquscdn.com http://cdn.viglink.com https://blog.dimlab.fr; \
             manifest-src 'self'; \
             media-src 'self' \
             """
