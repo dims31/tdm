@@ -1,4 +1,0 @@
----
-author: Dimitri
-title: Indonésie
----

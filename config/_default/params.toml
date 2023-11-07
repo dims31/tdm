@@ -29,7 +29,7 @@
     checkVersion = false
 
 [home]
-    sections = ["destinations/indonesie","Preparatifs"]
+    #sections = ["*"]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -131,7 +131,7 @@
     # twitter = "https://twitter.com/gethinode"
     # linkedIn = ""
     github = "https://github.com/gethinode/hinode"
-    section = "blog"
+    section = "destinations"
     [author]
         name = "Mark Dumay"
         # twitter = "https://twitter.com/markdumay"
