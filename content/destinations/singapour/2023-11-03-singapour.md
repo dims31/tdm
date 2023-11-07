@@ -1,5 +1,5 @@
 ---
-title: "1 jour à Singapour"
+title: "2 jours à Singapour"
 date: 2023-11-03
 thumbnail:
   url: https://dimstowp01.blob.core.windows.net/img/singapour/singapour-cover.jpg
@@ -14,9 +14,9 @@ On a que 2 jours sur place, pas le temps de prendre le métro, on file directeme
 
 En arrivant au jardin Garden By the Bay, on est loin du jardin des plantes de Toulouse. Des énormes structures métaliques végétalisées arborent le parc. Biensûr elles sont toutes bardées de LED pour faire le show tous les soirs. Vraiment sympa à voir.
 
-{{< image src="https://dimstowp01.blob.core.windows.net/img/singapour/singapour1.jpg" class="rounded" caption="Garden By the Bay">}} 
+{{< image src="https://dimstowp01.blob.core.windows.net/img/singapour/singapour1.jpg" class="rounded" caption="Garden By the Bay">}}
 
-Et on a pas fini d'en prendre pleins les yeux. On decide de rejoindre notre hotel en passant par le fameux Marina Bay Sands, et pour le coup je pense qu'en photo, on se rend pas compte. 
+Et on a pas fini d'en prendre pleins les yeux. On decide de rejoindre notre hotel en passant par le fameux Marina Bay Sands, et pour le coup je pense qu'en photo, on se rend pas compte.
 
 {{< image src="https://dimstowp01.blob.core.windows.net/img/singapour/singapour2.jpg" class="rounded" caption="Marina Bay Sands">}}
 
@@ -25,7 +25,6 @@ Et on a pas fini d'en prendre pleins les yeux. On decide de rejoindre notre hote
 Pour finir notre virée nocturne, on s'arrete manger dans un Food Court qui est un peu le seul endroit pour manger pas très cher en ville et où l'ambiance est assez sympa.
 
 Le deuxière jour nous avons fait le tour assez classique de Singapour. Chinatown, Little India, le quartier arabe... On a encore une fois de plus été supris par la modernité de cette ville, on prend le metro sans ticket directement en passant sa CB pour passer le portique.
-
 
 {{< image src="https://dimstowp01.blob.core.windows.net/img/singapour/singapour4.jpg" class="rounded" portrait="true" caption="La pub qui te donne pas envie de voler un paquet de bonbon à la superette">}}
 
