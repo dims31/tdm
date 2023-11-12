@@ -29,7 +29,7 @@
     checkVersion = false
 
 [home]
-    sections = ["destinations/singapour","destinations/indonesie","preparatifs"]
+    #sections = ["destinations/singapour","destinations/indonesie","preparatifs"]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -85,13 +85,12 @@
     weight = 50
     clipboard = true
 
-# toml-docs-start sections
-# [sections]
-#     [sections.posts]
-#         title = "Posts"
-#         sort = "date"
-#         reverse = true
-#         nested = true
+[sections]
+    [sections.destinations]
+        title = "Destinations"
+        sort = "date"
+        reverse = true
+        nested = true
 #         cols = 3
 #         color = ""
 #         padding = "0"
@@ -101,7 +100,6 @@
 #         style = "border-0 card-zoom"
 #         homepage = 3
 #         separator = true
-# toml-docs-end sections
 
 [favicon]
     logo = "images/logodim.png"
