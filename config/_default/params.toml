@@ -87,10 +87,11 @@
 
 [sections]
     [sections.destinations]
-        title = "Destinations"
+        title = ""
         sort = "date"
         reverse = true
         nested = true
+        homepage = 6
 #         cols = 3
 #         color = ""
 #         padding = "0"
@@ -98,7 +99,6 @@
 #         footer = "none"
 #         orientation = "stacked"
 #         style = "border-0 card-zoom"
-#         homepage = 3
 #         separator = true
 
 [favicon]
