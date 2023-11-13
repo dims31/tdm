@@ -124,17 +124,17 @@
 
 [schema]
     type = "Organization"
-    name = "Hinode"
-    locale = "en-US"
+    name = "Blog des Minous"
+    locale = "fr-FR"
     # twitter = "https://twitter.com/gethinode"
     # linkedIn = ""
-    github = "https://github.com/gethinode/hinode"
+    github = "https://github.com/dims31/tdm"
     section = "destinations"
     [author]
-        name = "Mark Dumay"
+        name = "Dimitri PUYET"
         # twitter = "https://twitter.com/markdumay"
-        linkedin = "https://www.linkedin.com/in/markdumay/"
-        github = "https://github.com/markdumay"
+        # linkedin = "https://www.linkedin.com/in/markdumay/"
+        # github = "https://github.com/markdumay"
     [logo]
         url = "img/logo512x512.png"
         width = 512
@@ -151,12 +151,13 @@
 [comments]
     enabled = true
     repo = "dims31/tdmcomment" # Replace with your repository.
+    disqusShortname = "blog-dimlab-fr"
     #issueTerm = "pathname" # pathname, url, title, og:title
     #label = "comment"
     # By default, light and dark mode correspond to github-light and github-dark, respectively.
     # Optional values: github-light, github-dark, preferred-color-scheme, github-dark-orange, icy-dark, dark-blue, photon-dark.
     #theme = "" 
-    disqusShortname = "blog-dimlab-fr"
+
 
 [links]
     hinode = "https://gethinode.com"
