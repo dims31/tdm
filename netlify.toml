@@ -23,7 +23,7 @@
         Content-Security-Policy = """\
             default-src 'self'; \
             child-src 'self' app.netlify.com; \
-            script-src 'self' 'unsafe-inline' 'unsafe-eval' \
+            script-src 'self' \
                 https://*.netlify.app app.netlify.com netlify-cdp-loader.netlify.app \
                 https://utteranc.es/client.js https://*.google-analytics.com https://*.googletagmanager.com http://www.instagram.com http://blog-dimlab-fr.disqus.com/embed.js https://c.disquscdn.com https://launchpad-wrapper.privacymanager.io https://launchpad.privacymanager.io; \
             style-src 'self' 'unsafe-inline' \
