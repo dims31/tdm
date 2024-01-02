@@ -17,6 +17,7 @@
       "head",
       "hr",
       "html",
+      "iframe",
       "img",
       "input",
       "li",
@@ -317,7 +318,8 @@
       "toggler-icon",
       "top-bar",
       "vr",
-      "w-100"
+      "w-100",
+      "youtube-embedded"
     ],
     "ids": [
       "-theme",
@@ -337,6 +339,7 @@
       "divers",
       "equipements",
       "gili-trawangan",
+      "hahahugoshortcode40s6hbhb",
       "indonésie",
       "journée-presquîle-de-bukit",
       "le-planificateur-à-contre-sens",
