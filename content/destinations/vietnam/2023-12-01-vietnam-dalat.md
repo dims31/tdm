@@ -2,7 +2,7 @@
 title: "Da Lat"
 date: 2023-12-01
 thumbnail:
-  url: https://dimstowp01.blob.core.windows.net/img/vietnam/cover.jpg
+  url: https://dimstowp01.blob.core.windows.net/img/vietnam/dalatcover.jpg
 tags: ["vietnam","asie"]
 description: "Le petit Paris du Sud Vietnamien"
 ---
