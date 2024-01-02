@@ -1,10 +1,10 @@
 ---
-title: "A la découverte du Delta du Mekong"
+title: "Ben Tré"
 date: 2023-11-24
 thumbnail:
   url: https://dimstowp01.blob.core.windows.net/img/vietnam/bentrecover.jpg
 tags: ["vietnam","asie"]
-description: "3 jours à se prélasser à Ben Tré"
+description: "3 jours à se prélasser au bord du Mekong"
 ---
 ---
 
