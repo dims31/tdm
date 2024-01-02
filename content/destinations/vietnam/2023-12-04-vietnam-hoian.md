@@ -7,6 +7,7 @@ tags: ["vietnam","asie"]
 description: "Petit repos dans la ville des lanternes"
 ---
 ---
+
 Coup de coeur pour cette petite ville située en bord de rivière, où règne une atmosphère vibrante.
 
 Entre la bonne bouffe 🍜, le centre historique et ses boutiques, les rizières à parcourir en vélo, la plage, et la piscine de l'hôtel, on se régale !
