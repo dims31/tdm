@@ -54,17 +54,17 @@
     reverse = false
     webshare = true
 
-[[sharing.providers]]
-    name = "LinkedIn"
-    url = "https://www.linkedin.com/sharing/share-offsite/?url={url}"
-    icon = "fab linkedin"
-    weight = 10
+# [[sharing.providers]]
+#     name = "LinkedIn"
+#     url = "https://www.linkedin.com/sharing/share-offsite/?url={url}"
+#     icon = "fab linkedin"
+#     weight = 10
 
-[[sharing.providers]]
-    name = "Twitter"
-    url = "https://twitter.com/home?status={url}"
-    icon = "fab x-twitter"
-    weight = 20
+# [[sharing.providers]]
+#     name = "Twitter"
+#     url = "https://twitter.com/home?status={url}"
+#     icon = "fab x-twitter"
+#     weight = 20
 
 [[sharing.providers]]
     name = "Facebook"
