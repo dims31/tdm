@@ -29,7 +29,7 @@
     checkVersion = false
 
 [home]
-    #sections = ["destinations/singapour","destinations/indonesie","preparatifs"]
+    sections = ["destinations","preparatifs"]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -92,6 +92,12 @@
         reverse = true
         nested = true
         homepage = 6
+    [sections.preparatifs]
+        title = ""
+        sort = "date"
+        reverse = true
+        nested = false
+        homepage = 2
 #         cols = 3
 #         color = ""
 #         padding = "0"
