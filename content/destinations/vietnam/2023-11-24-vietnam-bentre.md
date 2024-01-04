@@ -12,14 +12,20 @@ Nous voici dans la charmante région du Delta du Mékong. Surnommée la "Terre d
 
 Notre hébergement est situé directement sur le fleuve, on dort dans une cabane sur pilotis, bercés par le bruit de l'eau (bon, et celui des bateaux avec un moteur plus bruyant qu'une moto mais heureusement ils ne sont pas nombreux !)
 
+{{< image src="https://dimstowp01.blob.core.windows.net/img/vietnam/bentre5.jpg" class="rounded" portrait="true" caption="Notre petit logement sur le Mekong">}}
+
 On a quand même loué un scooter (tout pourri) et avons passé un peu de temps dans les villes de Bến Tre et de Mỹ Tho, situées tout près.
 
 {{< image src="https://dimstowp01.blob.core.windows.net/img/vietnam/bentre4.jpg" class="rounded" caption="La sérénité n'était pas totale avec ce scooter">}}
 
  Pour passer de l'une à l'autre il faut traverser un immense pont, qui surplomber le Mékong et permet d'admirer la vue (enfin, pour moi qui suis à l'arrière, car Dim devait rester ultra vigilant sur la route qu'on partage avec des énormes camions qui roulent à fond). Ici, la circulation se fait très difficilement ; les gens roulent vite et déboulent de partout sans regarder autour d'eux. Je vous parle même pas des ronds-points, impossible de comprendre qui doit s'insérer ni quand !
-On a vite compris pourquoi le principal point d'intérêt de la région est le Mékong et ses canaux... Ces deux villes ne sont pas ouf et rien n'est fait pour les touristes. On n'a même pas réussi à trouver un endroit décent pour déjeuner (on n'est pas difficiles pourtant). Heureusement que notre hôtel prépare des bons petits plats !
+On a vite compris pourquoi le principal point d'intérêt de la région est le Mékong et ses canaux... Ces deux villes ne sont pas ouf et rien n'est fait pour les touristes.
 
-{{< image src="https://dimstowp01.blob.core.windows.net/img/vietnam/bentre2.jpg" class="rounded" caption="Bon le poisson entier c'etait un peu too much">}}
+{{< image src="https://dimstowp01.blob.core.windows.net/img/vietnam/bentre6.jpg" class="rounded" caption="La ville de Mytho dans son jus !">}}
+
+On n'a même pas réussi à trouver un endroit décent pour déjeuner (on n'est pas difficiles pourtant). Heureusement que notre hôtel prépare des bons petits plats !
+
+{{< image src="https://dimstowp01.blob.core.windows.net/img/vietnam/bentre2.jpg" class="rounded" caption="Bon le poisson entier c'etait un peu too much pour Emma">}}
 
 En milieu d'après-midi, on a exploré les alentours de l'hôtel à bord d'une mini barque privée. On a longé le Mékong avant de s'enfoncer dans ses Arroyos, entourés d'une flore luxuriante. C'était super calé ! On est rentrés à la nuit tombée, avec plein de lucioles qui éclairaient les arbres. C'est un peu nos guirlandes lumineuses à nous 🎄
 
