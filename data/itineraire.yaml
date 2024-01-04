@@ -22,12 +22,17 @@
   icon: fas fa-location-dot
   color: primary
   date: 2023-11-22
-  badge: 45 jours
+  badge: 36 jours
+- title: Chine
+  icon: fas fa-location-dot
+  color: primary
+  date: 2023-12-27
+  badge: 13 jours
 - title: Laos
   icon: fas fa-location-dot
   color: primary
-  date: 2024-01-03
-  badge: 15 jours
+  date: 2024-01-09
+  badge: 30 jours
 - title: Cambodge
   icon: fas fa-location-dot
   color: primary
