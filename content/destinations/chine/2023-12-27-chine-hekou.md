@@ -3,7 +3,7 @@ title: "Bonjour la Chine !"
 date: 2023-12-27
 thumbnail:
   url: https://dimstowp01.blob.core.windows.net/img/chine/hekoucover.jpg
-tags: ["vietnam","asie"]
+tags: ["chine","asie"]
 description: "Hékou notre première étape chinoise dans la province du Yunnan."
 ---
 ---

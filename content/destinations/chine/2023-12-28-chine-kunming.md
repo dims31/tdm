@@ -3,7 +3,7 @@ title: "Escale rapide à Kunming"
 date: 2023-12-28
 thumbnail:
   url: https://dimstowp01.blob.core.windows.net/img/chine/kunmingcover.jpg
-tags: ["vietnam","asie"]
+tags: ["chine","asie"]
 description: "Kunming, la grande ville de la région"
 ---
 ---

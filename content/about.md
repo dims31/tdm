@@ -7,4 +7,16 @@ tags: []
 description: ""
 ---
 ---
-Nous nous apprêtons à décoller pour un tour du monde début octobre 2023. Voyageurs dans l’âme, après avoir déjà exploré plusieurs parties du globe, on a osé sauter le pas pour s’offrir une grande aventure ! Ici, nous partagerons notre itinéraire, nos photos, nos impressions… Stay tuned !
+
+Hello ! Nous sommes un couple de Toulousains de 34 et 35 ans qui, sans trop de poser de questions, a décidé de faire ses valises pour partir explorer le monde !
+
+Après la logistique relative à nos métiers, notre maison, notre chat, nous avons acheté un aller simple pour Bali. Ça y est, c'est concret !
+
+Voyageurs dans l’âme, nous avions déjà visité é plusieurs parties du globe. Mais cette grande aventure est bien différente de nos 2 semaines de vacances annuelles !
+
+Ici nous partageons notre itinéraire, nos photos, nos impressions, et aussi nos galères (on sait que vous aimez ça, bande de sadiques!)
+
+On se rend compte de la chance qu'on a, et c'est pourquoi on vous emmène avec nous !
+
+À l'aventure !
+Emma et Dim
