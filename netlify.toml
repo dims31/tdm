@@ -25,7 +25,7 @@
             child-src 'self' app.netlify.com; \
             script-src 'self' \
                 https://*.netlify.app app.netlify.com netlify-cdp-loader.netlify.app \
-                https://utteranc.es/client.js https://*.google-analytics.com https://*.googletagmanager.com http://www.instagram.com http://blog-dimlab-fr.disqus.com/embed.js https://c.disquscdn.com https://launchpad-wrapper.privacymanager.io https://launchpad.privacymanager.io 'sha256-WUbZy0mbKZm9sUI68tQoq1LV9WguBe58TXWrG9CA+4A='; \
+                https://utteranc.es/client.js https://*.google-analytics.com https://*.googletagmanager.com http://www.instagram.com http://blog-dimlab-fr.disqus.com/embed.js https://c.disquscdn.com https://launchpad-wrapper.privacymanager.io https://launchpad.privacymanager.io 'sha256-cGaNasu92LZtjjhWTgWdP7aPxLRBv2SKwvZkH+iRHQY='; \
             style-src 'self' 'unsafe-inline' \
                 https://*.netlify.app https://utteranc.es https://fonts.googleapis.com https://www.youtube.com https://c.disquscdn.com; \
             object-src 'none'; \
