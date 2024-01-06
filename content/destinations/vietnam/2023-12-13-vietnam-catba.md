@@ -34,14 +34,24 @@ Hâte d'être à demain pour la super croisière payée par la cagnotte des coll
 
 Que dire de cette fabuleuse expérience ? Une nuit de croisière sur la baie de Lan Ha est un incontournable. Idyllique et magique.
 
+{{< image src="https://dimstowp01.blob.core.windows.net/img/vietnam/catba6.jpg" class="rounded" caption="En avant capitaine !">}}
+
+{{< image src="https://dimstowp01.blob.core.windows.net/img/vietnam/catba7.jpg" class="rounded" caption="Les minous heureux !">}}
+
 On a partagé un grand bateau confortable avec un petit groupe très sympa, dont quelques Français.
 Outre les journées rythmées par du kayak, vélo, baignade, on a passé la soirée à profiter de la quiétude de cette belle région. Son eau calmissime et son ciel aux millions d'étoiles font de cette escale un des plus beaux moments vécus ici. J'ai adoré !
+
+{{< image src="https://dimstowp01.blob.core.windows.net/img/vietnam/catba8.jpg" class="rounded" caption="Kayak dans la baie de Lan Ha.">}}
 
 Les photos (trop peu nombreuses, on avait rarement nos téléphones hélas) ne rendent pas justice à la beauté du lieu, c'est splendide.
 
 Le soir, après un délicieux dîner sur le pont, on s'est adonnés au loisir préféré des Vietnamiens (et des asiatiques en général) : le karaoké. Il a fallu un peu de temps avant d'accepter de s'asseoir sur notre fierté, mais finalement on a bien rigolé !
 En se couchant, c'était le kiff ultime de pouvoir admirer ce panorama directement depuis notre lit...
 
+{{< image src="https://dimstowp01.blob.core.windows.net/img/vietnam/catba9.jpg" class="rounded" caption="Notre chambre avec sa vue juste 😍.">}}
+
 Bref, une bien belle virée ❤️
+
+{{< image src="https://dimstowp01.blob.core.windows.net/img/vietnam/catba10.jpg" class="rounded" caption="Obligé de sortir le drone !">}}
 
 On a aussi appris à faire des rouleaux de printemps et, sans surprise, Dim s'en sort mieux que moi.

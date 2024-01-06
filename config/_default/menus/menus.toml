@@ -33,6 +33,18 @@
   weight = 5
 
 [[main]]
+  name = "Chine"
+  pageRef = "/destinations/chine"
+  parent = "Destinations"
+  weight = 6
+
+[[main]]
+  name = "Laos"
+  pageRef = "/destinations/laos"
+  parent = "Destinations"
+  weight = 7
+
+[[main]]
   name = "Préparatifs"
   pageRef = "#"
   weight = 20
