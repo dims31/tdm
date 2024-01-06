@@ -23,11 +23,6 @@
     showJS = false
     showSCSS = false
 
-[docs]
-    github = "https://github.com/gethinode/hinode"
-    release = "https://github.com/gethinode/hinode/releases/tag/"
-    checkVersion = false
-
 [home]
     sections = ["destinations","preparatifs"]
     fullCover = false
@@ -167,3 +162,6 @@
 
 [links]
     hinode = "https://gethinode.com"
+
+[pages]
+        metadata = "original"
