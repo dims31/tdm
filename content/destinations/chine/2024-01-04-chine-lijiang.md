@@ -4,7 +4,7 @@ date: 2024-01-04
 thumbnail:
   url: https://dimstowp01.blob.core.windows.net/img/chine/lijiangcover.jpg
 tags: ["chine","asie"]
-description: "Calme et sérénité sont les deux meilleurs mots résumer Lijiang."
+description: "Calme et sérénité sont les deux meilleurs mots pour résumer Lijiang."
 ---
 ---
 
