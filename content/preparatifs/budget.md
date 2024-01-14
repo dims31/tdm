@@ -94,15 +94,17 @@ Je vais pas rentrer dans les details, j'ai la flemme !
 ## Récapitulatif
 
 {{< table class="table-striped" >}}
+
 | Catégorie        | Description                  | Prix           |
-| ---------------- |------------------------------|---------------:|
+| ---------------- | ------------------------------ | ---------------: |
 | Avions           | Transports Internationaux    | 3800€          |
 | Hebergement      |                              | 12000€         |
 | Vaccins          | En centre de vaccination CHU | 385€           |
-|Visas             |                              | 250€           |
-|Assurance         | Chapka                       | 575€           |
-|Equipement        |                              | 400€           |
-|**Total**         |                              |**17410€**      |
+| Visas             |                              | 250€           |
+| Assurance         | Chapka                       | 575€           |
+| Equipement        |                              | 400€           |
+| **Total**         |                              | **17410€**      |
+
 {{< /table >}}
 
 Pour conclure, on ne change pas de voiture et on peut faire un an en tour du monde, elle est pas simple la vie !
