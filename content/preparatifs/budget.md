@@ -93,7 +93,7 @@ Je vais pas rentrer dans les details, j'ai la flemme !
 
 ## Récapitulatif
 
-{{< table "table-striped" >}}
+{{< table class="table-striped" >}}
 | Catégorie        | Description                  | Prix           |
 | ---------------- |------------------------------|---------------:|
 | Avions           | Transports Internationaux    | 3800€          |

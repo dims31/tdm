@@ -117,8 +117,8 @@
     locale = "fr-FR"
     # twitter = "https://twitter.com/gethinode"
     # linkedIn = ""
-    github = "https://github.com/dims31/tdm"
-    section = "destinations"
+    # github = "https://github.com/dims31/tdm"
+    # section = "destinations"
     [author]
         name = "Dimitri PUYET"
         # twitter = "https://twitter.com/markdumay"
@@ -148,9 +148,9 @@
     #theme = "" 
 
 
-[links]
-    hinode = "https://gethinode.com"
+# [links]
+#     hinode = "https://gethinode.com"
 
 [pages]
     [pages.destinations]
-    metadata = "original"
+        metadata = "original"
