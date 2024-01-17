@@ -5,15 +5,22 @@
     modes = ["light", "dark"]
     canonifyAssetsURLs = false
     endorse = true
+    footerBelowFold = false
+    loading = "lazy"
+    breakpoint = "md"
     [main.externalLinks]
         cue = false
         tab = false
+    [main.build]
+        transpiler = "libsass"
 
 [modules]
     core = ["bootstrap", "flexsearch", "fontawesome"]
     optional = ["leaflet", "katex"]
     excludeSCSS = ["bootstrap"]
     disableTemplate = ["katex"]
+    [modules.katex]
+        state = "defer"
     [modules.fontawesome]
         inline = true
         debug = true
@@ -22,6 +29,7 @@
 [debugging]
     showJS = false
     showSCSS = false
+    purgeHTMLComments = false
 
 [home]
     sections = ["destinations","preparatifs"]
@@ -36,9 +44,11 @@
     fixed = true
     offset = "7em"
     search = true
+    searchModal = false
     breadcrumb = true
     toc = true
     sidebar = true
+    size = "md"
 
 [messages]
     placement = "bottom-right"
@@ -109,6 +119,7 @@
     themeFont = "Inter"
     # themeFontPath = "https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600&display=swap" # external path
     themeFontPath = "/fonts" # local path
+    fontSizeBase = "1rem"
     purge = false
 
 [schema]
