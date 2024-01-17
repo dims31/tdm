@@ -213,6 +213,7 @@
       "navbar-brand",
       "navbar-collapse",
       "navbar-expand-md",
+      "navbar-fixed-top",
       "navbar-nav",
       "navbar-nav-scroll",
       "navbar-toggler",
