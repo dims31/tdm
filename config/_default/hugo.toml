@@ -4,13 +4,15 @@ paginate = 9
 enableGitInfo = false
 
 # additional settings
-googleAnalytics = "G-DX3YX9CX83"
 baseURL = "https://blog.dimlab.fr/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
 enableInlineShortcodes = true
 summaryLength = 20
+
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
 
 timeout = "180s"
@@ -71,6 +73,14 @@ home = ["HTML", "RSS", "REDIR"]
     noUgly = true
     permalinkable = false
     name = "xml"
+
+[minify]
+  [minify.tdewolff.js]
+    keepVarNames = true
+    precision = 0
+    version = 2022
+  [minify.tdewolff.html]
+    keepWhitespace = true
 
 [module]
   [module.hugoVersion]
