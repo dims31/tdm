@@ -84,21 +84,19 @@
         sort = "date"
         reverse = true
         nested = true
-        homepage = 6
+        homepage = 3
+        style = "border-0 shadow card-zoom card-body-margin"
+        padding = 3
+        color = "body-tertiary"
     [sections.preparatifs]
         title = ""
         sort = "date"
         reverse = true
         nested = false
-        homepage = 2
-#         cols = 3
-#         color = ""
-#         padding = "0"
-#         header = "full"
-#         footer = "none"
-#         orientation = "stacked"
-#         style = "border-0 card-zoom"
-#         separator = true
+        homepage = 3
+        style = "border-0 shadow card-zoom card-body-margin"
+        padding = 3
+        color = "body-tertiary"
 
 [favicon]
     logo = "images/logodim.png"
