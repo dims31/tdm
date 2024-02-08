@@ -27,51 +27,51 @@
   icon: fas fa-location-dot
   color: primary
   date: 2023-12-27
-  badge: 13 jours
+  badge: 12 jours
 - title: Laos
   icon: fas fa-location-dot
   color: primary
-  date: 2024-01-09
-  badge: 30 jours
+  date: 2024-01-08
+  badge: 21 jours
 - title: Cambodge
   icon: fas fa-location-dot
   color: primary
-  date: 2024-01-18
-  badge: 25 jours
+  date: 2024-01-29
+  badge: 12 jours
 - title: Thailande
   icon: fas fa-location-dot
   color: primary
-  date: 2024-02-15
-  badge: 25 jours
-- title: Australie
+  date: 2024-02-10
+  badge: 46 jours
+- title: Indonésie
   icon: fas fa-location-dot
   color: primary
-  date: 2024-03-10
-  badge: 25 jours
+  date: 2024-03-27
+  badge: 27 jours
+- title: Japon
+  icon: fas fa-location-dot
+  color: primary
+  date: 2024-04-23
+  badge: 14 jours
 - title: Polynesie
   icon: fas fa-location-dot
   color: primary
-  date: 2024-03-30
-  badge: 20 jours
+  date: 2024-05-07
+  badge: 16 jours
 - title: Etats Unis
   icon: fas fa-location-dot
   color: primary
-  date: 2024-04-07
-  badge: 7 jours
-- title: Nicaragua
-  icon: fas fa-location-dot
-  color: primary
-  date: 2024-05-07
-  badge: 30 jours
+  date: 2024-05-23
+  badge: 4 jours
 - title: Colombie
   icon: fas fa-location-dot
   color: primary
-  date: 2024-06-07
+  date: 2024-05-27
   badge: 30 jours
 - title: Bresil
   icon: fas fa-location-dot
   color: primary
-  date: 2024-07-07
+  date: 2024-07-15
   badge: 30 jours
 
 

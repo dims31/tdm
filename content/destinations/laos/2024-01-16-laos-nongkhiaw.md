@@ -23,11 +23,12 @@ Jour 3
 Sur les "bons" conseils de Ben et Salom, on se joint à eux pour un trek de 2h30 qui nous mène à un view point où tout est prévu pour passer la nuit au dessus des nuages : dîner, nuit en tente, petit dej... Go !
 
 Sauf que :
-• la rando s'est avérée plus technique que je pensais... que de la montée, il faut s'accrocher aux roches pr pas tomber, traverser des ponts en branches... En plus y'a des grosses fourmis et des araignées. L'horreur pour les mauviettes dans mon genre. Mais I DID IT !
-• on s'est retrouvé dans un groupe de +20 personnes... Pas idéal pour profiter du calme
-• on n'avait ni matelas, ni oreiller, et seulement 2 petits plaids pour dormir sur un sol fait de planches de bois
-• notre tente n'était pas étanche et n'avait pas de fermeture, juste une moustiquaire
-• sans surprise, vous le voyez venir... Le super-mega-orage-nocturne-de-montagne-de-la-mort-qui-tue.
+
+- la rando s'est avérée plus technique que je pensais... que de la montée, il faut s'accrocher aux roches pr pas tomber, traverser des ponts en branches... En plus y'a des grosses fourmis et des araignées. L'horreur pour les mauviettes dans mon genre. Mais I DID IT !
+- on s'est retrouvé dans un groupe de +20 personnes... Pas idéal pour profiter du calme
+- on n'avait ni matelas, ni oreiller, et seulement 2 petits plaids pour dormir sur un sol fait de planches de bois
+- notre tente n'était pas étanche et n'avait pas de fermeture, juste une moustiquaire
+- sans surprise, vous le voyez venir... Le super-mega-orage-nocturne-de-montagne-de-la-mort-qui-tue.
 
 Réveillés à 2h, c'était terrible. La pluie tombait à grosses gouttes dans notre tente ouverte, et le vent s'engouffrait... Je vous mets la vidéo du live dans la tente (pardon pour les gros mots) ! J'étais affolée à l'idée de m'envoler et m'empaler contre les rochers. Même si Dim me promet que c'est impossible.
 Bref, on était trempés, sales, fatigués, on grelottait... Déjà qu'on était mal installés, là j'vous raconte pas !

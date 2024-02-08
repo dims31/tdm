@@ -2,7 +2,7 @@
 title: "Quel budget pour un tour du monde ?"
 date: 2023-08-02
 thumbnail:
-    url: https://dimstowp01.blob.core.windows.net/img/budget/cover2.jpg
+    url: https://dimstowp01.blob.core.windows.net/img/budget/cover3.jpg
 tags: ["preparatifs","budget"]
 description: "Le budget des minous décripté pour 11 mois en vadrouille autour du monde."
 ---

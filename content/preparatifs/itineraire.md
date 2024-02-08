@@ -2,7 +2,7 @@
 title: "Notre itinéraire"
 date: 2023-08-02
 thumbnail:
-    url: https://dimstowp01.blob.core.windows.net/img/preparatifs/itineraire-cover.jpg
+    url: https://dimstowp01.blob.core.windows.net/img/preparatifs/itineraire.jpg
 tags: ["preparatifs","itinéraire"]
 description: "Voici notre timeline prévisionnelle de notre grand périple qui risque d'évoluer au gré de nos envies."
 ---
