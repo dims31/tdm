@@ -34,7 +34,7 @@ Réveillés à 2h, c'était terrible. La pluie tombait à grosses gouttes dans n
 Bref, on était trempés, sales, fatigués, on grelottait... Déjà qu'on était mal installés, là j'vous raconte pas !
 On a "finit la nuit" sous la seule partie abritée du point de vue avec nos couvertures mouillées, collés à des inconnus.
 
-{{< image src="https://dimstowp01.blob.core.windows.net/img/laos/nong1.jpg" class="rounded" caption="Toujours un petit drapeau laotien en haut des View Point.">}}
+{{< image src="https://dimstowp01.blob.core.windows.net/img/laos/nong1.jpg" class="rounded" caption="Le spectacle après une nuit légèrement mouvementée.">}}
 {{< image src="https://dimstowp01.blob.core.windows.net/img/laos/nong2.jpg" class="rounded" caption="Toujours un petit drapeau laotien en haut des View Point.">}}
 {{< image src="https://dimstowp01.blob.core.windows.net/img/laos/nong3.jpg" class="rounded" caption="La petite pause !">}}
 {{< image src="https://dimstowp01.blob.core.windows.net/img/laos/nong4.jpg" class="rounded" caption="Le view point vue d'en haut.">}}
