@@ -51,6 +51,12 @@
   weight = 8
 
 [[main]]
+  name = "Thailande"
+  pageRef = "/destinations/thailande"
+  parent = "Destinations"
+  weight = 9
+
+[[main]]
   name = "Préparatifs"
   pageRef = "#"
   weight = 20
